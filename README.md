@@ -23,7 +23,7 @@ You are welcome to offer a statement as to WHY you believe the change is needed,
 
 ### Example
 
-Please change the following
+Please change the first sentence in Chapter 1 "Down The Rabbit-hole" from the following
 
 ```
 Alice was beginning to get very tired of sitting by her sister on the bank...
